@@ -1,5 +1,0 @@
-Git is a version control system
-Git is free software
-Add a line
-The next time
-New
